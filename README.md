@@ -1,12 +1,12 @@
 # Article Summarizer
 
-This is a study project for building an article summarizer using the ChatGPT API. The Article Summarizer is a web application that allows users to input a URL of an article or text. The software then utilizes the ChatGPT API to generate a concise summary of the content.
+This is a study project for building an article summarizer using ChatGPT. The Article Summarizer is a web application that allows users to input a URL of an article or text. The software then utilizes an ChatGPT based API to generate a concise summary of the content.
 
-## Motivation
 
-The Article Summarizer project was created with the goal of practicing front-end technologies, such as React, Tailwind CSS, Redux, and Vite, while also exploring the application of the ChatGPT API. 
+![Animated GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM1ZWYxMmU1MGM4NmM3YjFiOTVmNzI0YWJkYTBjMThhNjE1M2ZlYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4ymHwO1IzJ6FmSAU5k/giphy.gif)
 
-## Features
+
+## How it works
 
 - User inputs a URL of an article or text for summarization.
 - The software utilizes the ChatGPT API to generate a summary of the content.
@@ -20,9 +20,3 @@ The Article Summarizer project was created with the goal of practicing front-end
 - Redux
 - Vite
 - ChatGPT API
-
-## Conclusion
-
-The Article Summarizer project served as a platform for practicing front-end technologies and exploring the application of the ChatGPT API. By developing this application, I gained valuable experience in building user interfaces, integrating APIs, and working with language models for text summarization.
-
-Enjoy summarizing articles with the Article Summarizer!

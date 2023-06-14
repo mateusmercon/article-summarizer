@@ -9,7 +9,7 @@ This is a study project for building an article summarizer using ChatGPT. The Ar
 ## How it works
 
 - User inputs a URL of an article or text for summarization.
-- The software utilizes the ChatGPT API to generate a summary of the content.
+- The software utilizes the API to generate a summary of the content.
 - Generated summaries are displayed in a concise and readable format.
 - User summaries history is stored for future reference.
 

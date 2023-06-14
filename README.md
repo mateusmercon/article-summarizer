@@ -19,4 +19,4 @@ This is a study project for building an article summarizer using ChatGPT. The Ar
 - Tailwind CSS
 - Redux
 - Vite
-- ChatGPT API
+- ChatGPT
